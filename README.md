@@ -10,7 +10,7 @@ A command-line word guessing game where players guess letters to reveal a hidden
 
 Concepts used: Variables, lists, loops, conditional statements, user input, and the random module.
 
-2. Rule-Based Chatbot ("datheon.py")
+2. Rule-Based Chatbot ("chatbot.py")
 
 A simple interactive chatbot that responds to greetings and basic questions using predefined rules.
 
